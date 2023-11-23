@@ -47,6 +47,8 @@ en:
             label: Encrypts PM if available
         group:
           label: Group
+        groups:
+          label: Groups
         text:
           label: Text
       triggerables:
